@@ -1,0 +1,10 @@
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\bin\Debug\Oop2.NotPaintDotNet.exe.config
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\bin\Debug\Oop2.NotPaintDotNet.exe
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\bin\Debug\Oop2.NotPaintDotNet.pdb
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\obj\Debug\WinFormClient.csproj.AssemblyReference.cache
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\obj\Debug\WinFormClient.Form1.resources
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\obj\Debug\Oop2.NotPaintDotNet.Properties.Resources.resources
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\obj\Debug\WinFormClient.csproj.CoreCompileInputs.cache
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\obj\Debug\Oop2.NotPaintDotNet.exe
+D:\Прог\4 семестр\ООТПиСп\PTOOP-master 2\PTOOP-master\Lab2\Lab2\WinFormClient\obj\Debug\Oop2.NotPaintDotNet.pdb
